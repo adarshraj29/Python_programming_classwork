@@ -1,0 +1,14 @@
+a=10
+b=10.5
+nm="xyz"
+c=True
+d=[]
+e={}
+f=10+5j
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(nm))
+print(type(d))
+print(type(e))
+print(type(f))
